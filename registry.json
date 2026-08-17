@@ -603,9 +603,10 @@
     "category": "Gaming"
   },
   {
-    "repo_url": "https://github.com/SodiqAbdulwaris/strk20-hackathon",
+    "repo_url": "https://github.com/SodiqAbdulwaris/strk-disclose",
     "telegram": [
       "AbdulwarisSodiq"
-    ]
+    ],
+    "category": "Infra"
   }
 ]
